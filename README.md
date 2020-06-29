@@ -6,6 +6,6 @@ SimCapsule Internal Flow can accommodate any physics-based simulation type and i
 
 Interested parties are invited to explore how SimCapsule could benefit their design teams and analysis processes.
 
-Main Page: http://127.0.0.1/app/cadviewer/main.html
+Main Page: https://www.simcapsule.cn/app/internalflow/main.html
 
-Video: https://www.bilibili.com/video/BV1wf4y117mV/
+Video: https://www.bilibili.com/video/BV1hA411h7cp/
