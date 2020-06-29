@@ -5,3 +5,7 @@ SimCapsule is an extensible PaaS offering that supports the development, executi
 SimCapsule Internal Flow can accommodate any physics-based simulation type and is demonstrated here with a three-dimensional, incompressible, Navier-Stokes solver applicable to internal flow analysis. Elements of mesh generation, boundary condition and materials specification, solver setup, and extensive results post-processing are supported which allow for streamlined analysis, faster throughput, and informed design decisions.
 
 Interested parties are invited to explore how SimCapsule could benefit their design teams and analysis processes.
+
+Main Page: http://127.0.0.1/app/cadviewer/main.html
+
+Video: https://www.bilibili.com/video/BV1wf4y117mV/
